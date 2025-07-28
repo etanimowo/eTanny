@@ -2,7 +2,16 @@
 - 👀 I’m interested in data analytics related jobs
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach on .....
+
 - 
-eTanny/eTanny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- Perform data wrangling and cleaning to prepare datasets for analysis.
+- Analyze and visualize data using Microsoft Excel (e.g. Pivot Tables, advanced formulas, charts).
+- Write efficient SQL queries for data extraction, cleaning, and transformation.
+- Create interactive dashboards and reports with Power BI.
+- Design and build insightful data visualizations with Tableau.
+- Develop actionable insights from complex datasets to drive decision-making.
+
+
+
+
 --->
