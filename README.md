@@ -24,7 +24,7 @@ I'm a Data Analyst with over 2 years of experience turning raw data into actiona
 
 ---
 ### How to Reach Me
-- [LinkedIn](www.linkedin.com/in/sundaytanimowo)  
+- [LinkedIn](https://www.linkedin.com/in/sundaytanimowo)  
 - [Portfolio](https://tinyurl.com/aafvks7n) 
 
 ---
