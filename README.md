@@ -1,17 +1,31 @@
-- 👋 Hi, I’m Tanimowo Sunday, As a detail-oriented and results-driven Data Analyst, I specialize in leveraging data to uncover insights that drive business growth and efficiency. Proficient in collecting, cleaning, and analyzing large datasets using tools like Excel, SQL, Power BI, and Tableau.
-- 👀 I’m interested in data analytics related jobs
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach on .....
+### About Me
+I'm a Data Analyst with over 2 years of experience turning raw data into actionable insights. I’ve worked with tools like Excel, SQL, Power BI, Python, and Tableau to analyze trends, build dashboards, and drive data-informed decisions. I'm passionate about solving business problems through data and am always looking to grow my analytical and storytelling skills.
 
-- 
-- Perform data wrangling and cleaning to prepare datasets for analysis.
-- Analyze and visualize data using Microsoft Excel (e.g. Pivot Tables, advanced formulas, charts).
-- Write efficient SQL queries for data extraction, cleaning, and transformation.
-- Create interactive dashboards and reports with Power BI.
-- Design and build insightful data visualizations with Tableau.
-- Develop actionable insights from complex datasets to drive decision-making.
+---
+### Tools & Technologies
+- Excel (PivotTables, Power Query)
+- SQL (joins, subqueries, CTEs)
+- Power BI (DAX, custom visuals)
+- Tableau (dashboards, calculated fields)
+- Python (pandas, matplotlib, seaborn)
 
+---
+### Featured Projects
 
+---
+### Certifications
+- Master Data Analyst
+- Google Data Analytics
+- Virtual Internship
+- Microsoft office
+- DSAR
+- GDPR Essentials
+- HR & People Data & Analytics Fundamentals
 
+---
+### How to Reach Me
+- [LinkedIn](www.linkedin.com/in/sundaytanimowo)  
+- [Portfolio](https://tinyurl.com/aafvks7n) 
 
---->
+---
+> “Without data, you're just another person with an opinion.” – W. Edwards Deming
